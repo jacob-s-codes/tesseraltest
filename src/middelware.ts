@@ -1,4 +1,4 @@
-import { NextRequest } from "next/server";
+// import { NextRequest } from "next/server";
 import { authMiddleware } from "@tesseral/tesseral-nextjs/dist/middleware";
 
 export default authMiddleware;
